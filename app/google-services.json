@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "160061736151",
+    "firebase_url": "https://crudfb-dd872.firebaseio.com",
+    "project_id": "crudfb-dd872",
+    "storage_bucket": "crudfb-dd872.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160061736151:android:8538996e5a7ad9123adc92",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160061736151-v8ag8palm4km4bunno2snut0l4uk3t2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnshUbQAOrJxF7lt1qEXGv46r1uUr0lrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160061736151-v8ag8palm4km4bunno2snut0l4uk3t2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
